@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+
+}
+
+
+.container{
+    width : 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(9,0,77,0.65),rgba(9,0,77,0.65)),url(images/books.jpg);
+    background-repeat: cover;
+    background-position: center;
+    padding: 10px 8%;
+}
+
+.div1 {
+
+      border-radius: 25px;
+      background: #9BB0C1;
+      padding: 20px; 
+      width: 1100px;
+      height: 100px;  
+    }
+
+    .button1 {
+        border-radius: 25px;
+        border: 1px;
+        opacity: 0.5;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+
+      .button2 {
+        border-radius: 25px;
+        border: 1px;
+        opacity: 0.5;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 45px;
+        cursor: pointer;
+      }
+
+
+
+      .button3 {
+        border-radius: 25px;
+        border: 1px;
+        background-color: cornflowerblue;        
+        opacity: 0.5;
+        padding: 10px 30px;
+        text-align: center;
+        display: flex;
+        font-size: 16px;
+        margin : 50px 60px;
+        cursor: pointer;
+      }
+
+      .div2{
+        margin: 50px 50px;
+        color: antiquewhite;
+      }
+       
+      .div3{
+        margin: 50px 50px;
+        color: antiquewhite;
+      }
+       
+
+
+
+
+
+
+      
